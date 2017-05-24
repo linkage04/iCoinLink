@@ -1,3 +1,3 @@
 # iCoinLink
 iCoinLink
-add new str for update AND simple
+add new str for update and simple for merge
